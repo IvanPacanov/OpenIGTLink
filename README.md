@@ -1,3 +1,5 @@
+Repko do zaliczenia laboratorium!
+
 The OpenIGTLink Library
 =======================
 
