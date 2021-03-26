@@ -7,6 +7,7 @@ SET(EXAMPLE_DIRS
   Tracker
   Imager
   Status
+  Lab_PWP
   Receiver
   Thread
   )

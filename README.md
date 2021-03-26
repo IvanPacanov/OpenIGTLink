@@ -1,4 +1,4 @@
-Repko do zaliczenia laboratorium!
+Repko do zaliczenia laboratorium! Kod na szybko wpisany, nie ładnie w pętle!
 
 The OpenIGTLink Library
 =======================
